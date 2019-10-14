@@ -1,0 +1,14 @@
+20px body centered with a border
+borderColor: #bdc3c7
+dateColor: #3498db
+h2Color: #2c3e50
+
+font: source sans pro - on google fonts
+
+Left border on first paragraph of each section
+
+Padding on paragraphs
+
+date in all caps (css) and with letter spacing
+
+Horizontal rule between each post
