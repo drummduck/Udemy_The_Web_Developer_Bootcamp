@@ -2,22 +2,23 @@ body{
 	font-family: 'Source Sans Pro', sans-serif;
 	width: 60%;
 	align-content: center;
-	margin:10px auto;
+	margin:10px auto;        
 	border: 20px solid #bdc3c7;
-	border
 }
 
 h4{
 	text-transform: uppercase;
 	color: #3498db;
-	letter-spacing: 2px;
+	letter-spacing: 2px;	/*Could have made h4 it's own seperate class. Also can use letter-spacing: 10rem, where rem is relative to parent, in this case body, 
+								and em is relative to base.*/
 }
 
 .post{
-	margin-left: 20px;
+	margin-left: 20px;         /*Should have used padding up in the body instead, but i think this works for what we have*/
 	margin-right: 20px;
 }
 
 .firstPar{
 	border-left: 5px solid #bdc3c7;
+	padding-left: 5px;
 }
